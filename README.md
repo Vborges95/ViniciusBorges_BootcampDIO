@@ -1,5 +1,5 @@
 # ViniciusBorges_BootcampDIO
-Planilha inteligente em Excel com simulação de aportes mensais, dividendos e comparação de fundos imobiliários via dados da B3
+
 **Simulador de Investimentos em Fundos Imobiliários (FIIs)**  
 Planilha desenvolvida para auxiliar usuários a simular investimentos em FIIs, permitindo o cálculo de rendimento mensal, dividendos e patrimônio acumulado.
 
